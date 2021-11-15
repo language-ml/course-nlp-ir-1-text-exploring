@@ -1,0 +1,1254 @@
+{
+    "chapter_81": {
+        "verses": {
+            "verse_1": {
+                "tok_1": {
+                    "morph_1": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{l",
+                        "surface_form_arabic": "Ù±Ù"
+                    },
+                    "morph_2": {
+                        "lemma": "$amos",
+                        "pos_tag": "N",
+                        "root": "$ms",
+                        "surface_form": "$~amosu",
+                        "surface_form_arabic": "Ø´ÙÙÙÙØ³Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "kuw~irato",
+                        "pos_tag": "V",
+                        "root": "kwr",
+                        "surface_form": "kuw~irato",
+                        "surface_form_arabic": "ÙÙÙÙÙØ±ÙØªÙ"
+                    }
+                }
+            },
+            "verse_10": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{l",
+                        "surface_form_arabic": "Ù±Ù"
+                    },
+                    "morph_2": {
+                        "lemma": "SuHuf",
+                        "pos_tag": "N",
+                        "root": "SHf",
+                        "surface_form": "S~uHufu",
+                        "surface_form_arabic": "ØµÙÙØ­ÙÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "nu$irato",
+                        "pos_tag": "V",
+                        "root": "n$r",
+                        "surface_form": "nu$irato",
+                        "surface_form_arabic": "ÙÙØ´ÙØ±ÙØªÙ"
+                    }
+                }
+            },
+            "verse_11": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{l",
+                        "surface_form_arabic": "Ù±Ù"
+                    },
+                    "morph_2": {
+                        "lemma": "samaA^'",
+                        "pos_tag": "N",
+                        "root": "smw",
+                        "surface_form": "s~amaA^'u",
+                        "surface_form_arabic": "Ø³ÙÙÙÙØ§ÙØ¡Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "ku$iTato",
+                        "pos_tag": "V",
+                        "root": "k$T",
+                        "surface_form": "ku$iTato",
+                        "surface_form_arabic": "ÙÙØ´ÙØ·ÙØªÙ"
+                    }
+                }
+            },
+            "verse_12": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "jaHiym",
+                        "pos_tag": "N",
+                        "root": "jHm",
+                        "surface_form": "jaHiymu",
+                        "surface_form_arabic": "Ø¬ÙØ­ÙÛÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "suE~irato",
+                        "pos_tag": "V",
+                        "root": "sEr",
+                        "surface_form": "suE~irato",
+                        "surface_form_arabic": "Ø³ÙØ¹ÙÙØ±ÙØªÙ"
+                    }
+                }
+            },
+            "verse_13": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "jan~ap",
+                        "pos_tag": "PN",
+                        "root": "jnn",
+                        "surface_form": "jan~apu",
+                        "surface_form_arabic": "Ø¬ÙÙÙÙØ©Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": ">uzolifato",
+                        "pos_tag": "V",
+                        "root": "zlf",
+                        "surface_form": ">uzolifato",
+                        "surface_form_arabic": "Ø£ÙØ²ÙÙÙÙÙØªÙ"
+                    }
+                }
+            },
+            "verse_14": {
+                "tok_1": {
+                    "morph_1": {
+                        "lemma": "Ealima",
+                        "pos_tag": "V",
+                        "root": "Elm",
+                        "surface_form": "Ealimato",
+                        "surface_form_arabic": "Ø¹ÙÙÙÙÙØªÙ"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": "nafos",
+                        "pos_tag": "N",
+                        "root": "nfs",
+                        "surface_form": "nafosN",
+                        "surface_form_arabic": "ÙÙÙÙØ³Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "maA",
+                        "pos_tag": "REL",
+                        "surface_form": "m~aA^",
+                        "surface_form_arabic": "ÙÙÙØ§Ù"
+                    }
+                },
+                "tok_4": {
+                    "morph_1": {
+                        "lemma": ">aHoDarato",
+                        "pos_tag": "V",
+                        "root": "HDr",
+                        "surface_form": ">aHoDarato",
+                        "surface_form_arabic": "Ø£ÙØ­ÙØ¶ÙØ±ÙØªÙ"
+                    }
+                }
+            },
+            "verse_15": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "REM",
+                        "surface_form": "fa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "laA",
+                        "pos_tag": "NEG",
+                        "surface_form": "laA^",
+                        "surface_form_arabic": "ÙÙØ§Ù"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": ">aqosamu",
+                        "pos_tag": "V",
+                        "root": "qsm",
+                        "surface_form": ">uqosimu",
+                        "surface_form_arabic": "Ø£ÙÙÙØ³ÙÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "pos_tag": "P",
+                        "surface_form": "bi",
+                        "surface_form_arabic": "Ø¨Ù"
+                    },
+                    "morph_2": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_3": {
+                        "lemma": "xun~as",
+                        "pos_tag": "N",
+                        "root": "xns",
+                        "surface_form": "xun~asi",
+                        "surface_form_arabic": "Ø®ÙÙÙÙØ³Ù"
+                    }
+                }
+            },
+            "verse_16": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "jawaAr",
+                        "pos_tag": "ADJ",
+                        "root": "jry",
+                        "surface_form": "jawaAri",
+                        "surface_form_arabic": "Ø¬ÙÙÙØ§Ø±Ù"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "kun~as",
+                        "pos_tag": "ADJ",
+                        "root": "kns",
+                        "surface_form": "kun~asi",
+                        "surface_form_arabic": "ÙÙÙÙÙØ³Ù"
+                    }
+                }
+            },
+            "verse_17": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "pos_tag": "DET",
+                        "surface_form": "{l~a",
+                        "surface_form_arabic": "Ù±ÙÙÙ"
+                    },
+                    "morph_3": {
+                        "lemma": "layol",
+                        "pos_tag": "N",
+                        "root": "lyl",
+                        "surface_form": "yoli",
+                        "surface_form_arabic": "ÛÙÙÙ"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "EasoEasa",
+                        "pos_tag": "V",
+                        "root": "EsEs",
+                        "surface_form": "EasoEasa",
+                        "surface_form_arabic": "Ø¹ÙØ³ÙØ¹ÙØ³Ù"
+                    }
+                }
+            },
+            "verse_18": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "pos_tag": "DET",
+                        "surface_form": "{l",
+                        "surface_form_arabic": "Ù±Ù"
+                    },
+                    "morph_3": {
+                        "lemma": "SuboH",
+                        "pos_tag": "N",
+                        "root": "SbH",
+                        "surface_form": "S~uboHi",
+                        "surface_form_arabic": "ØµÙÙØ¨ÙØ­Ù"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "tanaf~asa",
+                        "pos_tag": "V",
+                        "root": "nfs",
+                        "surface_form": "tanaf~asa",
+                        "surface_form_arabic": "ØªÙÙÙÙÙÙØ³Ù"
+                    }
+                }
+            },
+            "verse_19": {
+                "tok_1": {
+                    "morph_1": {
+                        "lemma": "<in~",
+                        "pos_tag": "ACC",
+                        "surface_form": "<in~a",
+                        "surface_form_arabic": "Ø¥ÙÙÙÙ"
+                    },
+                    "morph_2": {
+                        "pos_tag": "PRON",
+                        "surface_form": "hu,",
+                        "surface_form_arabic": "ÙÙÛ¥"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "EMPH",
+                        "surface_form": "la",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "qawol",
+                        "pos_tag": "N",
+                        "root": "qwl",
+                        "surface_form": "qawolu",
+                        "surface_form_arabic": "ÙÙÙÙÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "rasuwl",
+                        "pos_tag": "N",
+                        "root": "rsl",
+                        "surface_form": "rasuwlK",
+                        "surface_form_arabic": "Ø±ÙØ³ÙÙÙÙ"
+                    }
+                },
+                "tok_4": {
+                    "morph_1": {
+                        "lemma": "kariym",
+                        "pos_tag": "ADJ",
+                        "root": "krm",
+                        "surface_form": "kariymK",
+                        "surface_form_arabic": "ÙÙØ±ÙÛÙÙ"
+                    }
+                }
+            },
+            "verse_2": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{l",
+                        "surface_form_arabic": "Ù±Ù"
+                    },
+                    "morph_2": {
+                        "lemma": "n~ajom",
+                        "pos_tag": "N",
+                        "root": "njm",
+                        "surface_form": "n~ujuwmu",
+                        "surface_form_arabic": "ÙÙÙØ¬ÙÙÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "{nkadarato",
+                        "pos_tag": "V",
+                        "root": "kdr",
+                        "surface_form": "{nkadarato",
+                        "surface_form_arabic": "Ù±ÙÙÙØ¯ÙØ±ÙØªÙ"
+                    }
+                }
+            },
+            "verse_20": {
+                "tok_1": {
+                    "morph_1": {
+                        "lemma": "*uw",
+                        "pos_tag": "N",
+                        "surface_form": "*iY",
+                        "surface_form_arabic": "Ø°ÙÙ"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": "quw~ap",
+                        "pos_tag": "N",
+                        "root": "qwy",
+                        "surface_form": "quw~apK",
+                        "surface_form_arabic": "ÙÙÙÙÙØ©Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "Eind",
+                        "pos_tag": "LOC",
+                        "root": "End",
+                        "surface_form": "Einda",
+                        "surface_form_arabic": "Ø¹ÙÙØ¯Ù"
+                    }
+                },
+                "tok_4": {
+                    "morph_1": {
+                        "lemma": "*uw",
+                        "pos_tag": "N",
+                        "surface_form": "*iY",
+                        "surface_form_arabic": "Ø°ÙÙ"
+                    }
+                },
+                "tok_5": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "Earo$",
+                        "pos_tag": "N",
+                        "root": "Er$",
+                        "surface_form": "Earo$i",
+                        "surface_form_arabic": "Ø¹ÙØ±ÙØ´Ù"
+                    }
+                },
+                "tok_6": {
+                    "morph_1": {
+                        "lemma": "m~akiyn",
+                        "pos_tag": "ADJ",
+                        "root": "mkn",
+                        "surface_form": "makiynK",
+                        "surface_form_arabic": "ÙÙÙÙÛÙÙ"
+                    }
+                }
+            },
+            "verse_21": {
+                "tok_1": {
+                    "morph_1": {
+                        "lemma": "m~uTaAE",
+                        "pos_tag": "ADJ",
+                        "root": "TwE",
+                        "surface_form": "m~uTaAEK",
+                        "surface_form_arabic": "ÙÙÙØ·ÙØ§Ø¹Ù"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": "vam~",
+                        "pos_tag": "LOC",
+                        "surface_form": "vam~a",
+                        "surface_form_arabic": "Ø«ÙÙÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": ">amiyn",
+                        "pos_tag": "ADJ",
+                        "root": "Amn",
+                        "surface_form": ">amiynK",
+                        "surface_form_arabic": "Ø£ÙÙÙÛÙÙ"
+                    }
+                }
+            },
+            "verse_22": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "REM",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "maA",
+                        "pos_tag": "NEG",
+                        "surface_form": "maA",
+                        "surface_form_arabic": "ÙÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": "SaAHib",
+                        "pos_tag": "N",
+                        "root": "SHb",
+                        "surface_form": "SaAHibu",
+                        "surface_form_arabic": "ØµÙØ§Ø­ÙØ¨Ù"
+                    },
+                    "morph_2": {
+                        "pos_tag": "PRON",
+                        "surface_form": "kum",
+                        "surface_form_arabic": "ÙÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "pos_tag": "P",
+                        "surface_form": "bi",
+                        "surface_form_arabic": "Ø¨Ù"
+                    },
+                    "morph_2": {
+                        "lemma": "majonuwn",
+                        "pos_tag": "N",
+                        "root": "jnn",
+                        "surface_form": "majonuwnK",
+                        "surface_form_arabic": "ÙÙØ¬ÙÙÙÙÙÙ"
+                    }
+                }
+            },
+            "verse_23": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "REM",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "pos_tag": "EMPH",
+                        "surface_form": "la",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_3": {
+                        "lemma": "qad",
+                        "pos_tag": "CERT",
+                        "surface_form": "qado",
+                        "surface_form_arabic": "ÙÙØ¯Ù"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": "ra'aA",
+                        "pos_tag": "V",
+                        "root": "rAy",
+                        "surface_form": "ra'aA",
+                        "surface_form_arabic": "Ø±ÙØ¡ÙØ§"
+                    },
+                    "morph_2": {
+                        "pos_tag": "PRON",
+                        "surface_form": "hu",
+                        "surface_form_arabic": "ÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "pos_tag": "P",
+                        "surface_form": "bi",
+                        "surface_form_arabic": "Ø¨Ù"
+                    },
+                    "morph_2": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_3": {
+                        "lemma": ">ufuq",
+                        "pos_tag": "N",
+                        "root": "Afq",
+                        "surface_form": ">ufuqi",
+                        "surface_form_arabic": "Ø£ÙÙÙÙÙ"
+                    }
+                },
+                "tok_4": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "m~ubiyn",
+                        "pos_tag": "ADJ",
+                        "root": "byn",
+                        "surface_form": "mubiyni",
+                        "surface_form_arabic": "ÙÙØ¨ÙÛÙÙ"
+                    }
+                }
+            },
+            "verse_24": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "maA",
+                        "pos_tag": "NEG",
+                        "surface_form": "maA",
+                        "surface_form_arabic": "ÙÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "PRON",
+                        "surface_form": "huwa",
+                        "surface_form_arabic": "ÙÙÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "EalaY`",
+                        "pos_tag": "P",
+                        "surface_form": "EalaY",
+                        "surface_form_arabic": "Ø¹ÙÙÙÙ"
+                    }
+                },
+                "tok_4": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "gayob",
+                        "pos_tag": "N",
+                        "root": "gyb",
+                        "surface_form": "gayobi",
+                        "surface_form_arabic": "ØºÙÛÙØ¨Ù"
+                    }
+                },
+                "tok_5": {
+                    "morph_1": {
+                        "pos_tag": "P",
+                        "surface_form": "bi",
+                        "surface_form_arabic": "Ø¨Ù"
+                    },
+                    "morph_2": {
+                        "lemma": "Daniyn",
+                        "pos_tag": "N",
+                        "root": "Dnn",
+                        "surface_form": "DaniynK",
+                        "surface_form_arabic": "Ø¶ÙÙÙÛÙÙ"
+                    }
+                }
+            },
+            "verse_25": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "maA",
+                        "pos_tag": "NEG",
+                        "surface_form": "maA",
+                        "surface_form_arabic": "ÙÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "PRON",
+                        "surface_form": "huwa",
+                        "surface_form_arabic": "ÙÙÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "pos_tag": "P",
+                        "surface_form": "bi",
+                        "surface_form_arabic": "Ø¨Ù"
+                    },
+                    "morph_2": {
+                        "lemma": "qawol",
+                        "pos_tag": "N",
+                        "root": "qwl",
+                        "surface_form": "qawoli",
+                        "surface_form_arabic": "ÙÙÙÙÙÙ"
+                    }
+                },
+                "tok_4": {
+                    "morph_1": {
+                        "lemma": "$ayoTa`n",
+                        "pos_tag": "N",
+                        "root": "$Tn",
+                        "surface_form": "$ayoTa`nK",
+                        "surface_form_arabic": "Ø´ÙÛÙØ·ÙÙ°ÙÙ"
+                    }
+                },
+                "tok_5": {
+                    "morph_1": {
+                        "lemma": "rajiym",
+                        "pos_tag": "ADJ",
+                        "root": "rjm",
+                        "surface_form": "r~ajiymK",
+                        "surface_form_arabic": "Ø±ÙÙØ¬ÙÛÙÙ"
+                    }
+                }
+            },
+            "verse_26": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "REM",
+                        "surface_form": "fa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": ">ayon",
+                        "pos_tag": "INTG",
+                        "surface_form": ">ayona",
+                        "surface_form_arabic": "Ø£ÙÛÙÙÙ"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": "*ahaba",
+                        "pos_tag": "V",
+                        "root": "*hb",
+                        "surface_form": "ta*ohabu",
+                        "surface_form_arabic": "ØªÙØ°ÙÙÙØ¨Ù"
+                    },
+                    "morph_2": {
+                        "pos_tag": "PRON",
+                        "surface_form": "wna",
+                        "surface_form_arabic": "ÙÙÙ"
+                    }
+                }
+            },
+            "verse_27": {
+                "tok_1": {
+                    "morph_1": {
+                        "lemma": "<in",
+                        "pos_tag": "NEG",
+                        "surface_form": "<ino",
+                        "surface_form_arabic": "Ø¥ÙÙÙ"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "PRON",
+                        "surface_form": "huwa",
+                        "surface_form_arabic": "ÙÙÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "<il~aA",
+                        "pos_tag": "RES",
+                        "surface_form": "<il~aA",
+                        "surface_form_arabic": "Ø¥ÙÙÙÙØ§"
+                    }
+                },
+                "tok_4": {
+                    "morph_1": {
+                        "lemma": "*ikor",
+                        "pos_tag": "N",
+                        "root": "*kr",
+                        "surface_form": "*ikorN",
+                        "surface_form_arabic": "Ø°ÙÙÙØ±Ù"
+                    }
+                },
+                "tok_5": {
+                    "morph_1": {
+                        "pos_tag": "P",
+                        "surface_form": "l~i",
+                        "surface_form_arabic": "ÙÙÙ"
+                    },
+                    "morph_2": {
+                        "pos_tag": "DET",
+                        "surface_form": "lo",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_3": {
+                        "lemma": "Ea`lamiyn",
+                        "pos_tag": "N",
+                        "root": "Elm",
+                        "surface_form": "Ea`lamiyna",
+                        "surface_form_arabic": "Ø¹ÙÙ°ÙÙÙÙÛÙÙ"
+                    }
+                }
+            },
+            "verse_28": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "P",
+                        "surface_form": "li",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "man",
+                        "pos_tag": "REL",
+                        "surface_form": "man",
+                        "surface_form_arabic": "ÙÙÙ"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": "$aA^'a",
+                        "pos_tag": "V",
+                        "root": "$yA",
+                        "surface_form": "$aA^'a",
+                        "surface_form_arabic": "Ø´ÙØ§ÙØ¡Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "min",
+                        "pos_tag": "P",
+                        "surface_form": "min",
+                        "surface_form_arabic": "ÙÙÙ"
+                    },
+                    "morph_2": {
+                        "pos_tag": "PRON",
+                        "surface_form": "kumo",
+                        "surface_form_arabic": "ÙÙÙÙ"
+                    }
+                },
+                "tok_4": {
+                    "morph_1": {
+                        "lemma": ">an",
+                        "pos_tag": "SUB",
+                        "surface_form": ">an",
+                        "surface_form_arabic": "Ø£ÙÙ"
+                    }
+                },
+                "tok_5": {
+                    "morph_1": {
+                        "lemma": "{sotaqa`mu",
+                        "pos_tag": "V",
+                        "root": "qwm",
+                        "surface_form": "yasotaqiyma",
+                        "surface_form_arabic": "ÛÙØ³ÙØªÙÙÙÛÙÙ"
+                    }
+                }
+            },
+            "verse_29": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "REM",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "maA",
+                        "pos_tag": "NEG",
+                        "surface_form": "maA",
+                        "surface_form_arabic": "ÙÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": "$aA^'a",
+                        "pos_tag": "V",
+                        "root": "$yA",
+                        "surface_form": "ta$aA^'u",
+                        "surface_form_arabic": "ØªÙØ´ÙØ§ÙØ¡Ù"
+                    },
+                    "morph_2": {
+                        "pos_tag": "PRON",
+                        "surface_form": "wna",
+                        "surface_form_arabic": "ÙÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "<il~aA",
+                        "pos_tag": "RES",
+                        "surface_form": "<il~aA^",
+                        "surface_form_arabic": "Ø¥ÙÙÙÙØ§Ù"
+                    }
+                },
+                "tok_4": {
+                    "morph_1": {
+                        "lemma": ">an",
+                        "pos_tag": "SUB",
+                        "surface_form": ">an",
+                        "surface_form_arabic": "Ø£ÙÙ"
+                    }
+                },
+                "tok_5": {
+                    "morph_1": {
+                        "lemma": "$aA^'a",
+                        "pos_tag": "V",
+                        "root": "$yA",
+                        "surface_form": "ya$aA^'a",
+                        "surface_form_arabic": "ÛÙØ´ÙØ§ÙØ¡Ù"
+                    }
+                },
+                "tok_6": {
+                    "morph_1": {
+                        "lemma": "{ll~ah",
+                        "pos_tag": "PN",
+                        "root": "Alh",
+                        "surface_form": "{ll~ahu",
+                        "surface_form_arabic": "Ù±ÙÙÙÙÙÙ"
+                    }
+                },
+                "tok_7": {
+                    "morph_1": {
+                        "lemma": "rab~",
+                        "pos_tag": "N",
+                        "root": "rbb",
+                        "surface_form": "rab~u",
+                        "surface_form_arabic": "Ø±ÙØ¨ÙÙ"
+                    }
+                },
+                "tok_8": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "Ea`lamiyn",
+                        "pos_tag": "N",
+                        "root": "Elm",
+                        "surface_form": "Ea`lamiyna",
+                        "surface_form_arabic": "Ø¹ÙÙ°ÙÙÙÙÛÙÙ"
+                    }
+                }
+            },
+            "verse_3": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "jabal",
+                        "pos_tag": "N",
+                        "root": "jbl",
+                        "surface_form": "jibaAlu",
+                        "surface_form_arabic": "Ø¬ÙØ¨ÙØ§ÙÙ"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "suy~irato",
+                        "pos_tag": "V",
+                        "root": "syr",
+                        "surface_form": "suy~irato",
+                        "surface_form_arabic": "Ø³ÙÛÙÙØ±ÙØªÙ"
+                    }
+                }
+            },
+            "verse_4": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "Ei$aAr",
+                        "pos_tag": "N",
+                        "root": "E$r",
+                        "surface_form": "Ei$aAru",
+                        "surface_form_arabic": "Ø¹ÙØ´ÙØ§Ø±Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "EuT~ilato",
+                        "pos_tag": "V",
+                        "root": "ETl",
+                        "surface_form": "EuT~ilato",
+                        "surface_form_arabic": "Ø¹ÙØ·ÙÙÙÙØªÙ"
+                    }
+                }
+            },
+            "verse_5": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "wuHuw$",
+                        "pos_tag": "N",
+                        "root": "wH$",
+                        "surface_form": "wuHuw$u",
+                        "surface_form_arabic": "ÙÙØ­ÙÙØ´Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "Ha$ara",
+                        "pos_tag": "V",
+                        "root": "H$r",
+                        "surface_form": "Hu$irato",
+                        "surface_form_arabic": "Ø­ÙØ´ÙØ±ÙØªÙ"
+                    }
+                }
+            },
+            "verse_6": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "baHor",
+                        "pos_tag": "N",
+                        "root": "bHr",
+                        "surface_form": "biHaAru",
+                        "surface_form_arabic": "Ø¨ÙØ­ÙØ§Ø±Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "suj~irato",
+                        "pos_tag": "V",
+                        "root": "sjr",
+                        "surface_form": "suj~irato",
+                        "surface_form_arabic": "Ø³ÙØ¬ÙÙØ±ÙØªÙ"
+                    }
+                }
+            },
+            "verse_7": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{l",
+                        "surface_form_arabic": "Ù±Ù"
+                    },
+                    "morph_2": {
+                        "lemma": "nafos",
+                        "pos_tag": "N",
+                        "root": "nfs",
+                        "surface_form": "n~ufuwsu",
+                        "surface_form_arabic": "ÙÙÙÙÙÙØ³Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "zuw~ijato",
+                        "pos_tag": "V",
+                        "root": "zwj",
+                        "surface_form": "zuw~ijato",
+                        "surface_form_arabic": "Ø²ÙÙÙÙØ¬ÙØªÙ"
+                    }
+                }
+            },
+            "verse_8": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "CONJ",
+                        "surface_form": "wa",
+                        "surface_form_arabic": "ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "<i*aA",
+                        "pos_tag": "T",
+                        "surface_form": "<i*aA",
+                        "surface_form_arabic": "Ø¥ÙØ°ÙØ§"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "pos_tag": "DET",
+                        "surface_form": "{lo",
+                        "surface_form_arabic": "Ù±ÙÙ"
+                    },
+                    "morph_2": {
+                        "lemma": "mawo'udap",
+                        "pos_tag": "N",
+                        "root": "wAd",
+                        "surface_form": "mawo'u,dapu",
+                        "surface_form_arabic": "ÙÙÙÙØ¡ÙÛ¥Ø¯ÙØ©Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "sa>ala",
+                        "pos_tag": "V",
+                        "root": "sAl",
+                        "surface_form": "su}ilato",
+                        "surface_form_arabic": "Ø³ÙØ¦ÙÙÙØªÙ"
+                    }
+                }
+            },
+            "verse_9": {
+                "tok_1": {
+                    "morph_1": {
+                        "pos_tag": "P",
+                        "surface_form": "bi",
+                        "surface_form_arabic": "Ø¨Ù"
+                    },
+                    "morph_2": {
+                        "lemma": ">aY~",
+                        "pos_tag": "INTG",
+                        "surface_form": ">aY~i",
+                        "surface_form_arabic": "Ø£ÙÙÙÙ"
+                    }
+                },
+                "tok_2": {
+                    "morph_1": {
+                        "lemma": "*anb",
+                        "pos_tag": "N",
+                        "root": "*nb",
+                        "surface_form": "*an[bK",
+                        "surface_form_arabic": "Ø°ÙÙÛ¢Ø¨Ù"
+                    }
+                },
+                "tok_3": {
+                    "morph_1": {
+                        "lemma": "qatala",
+                        "pos_tag": "V",
+                        "root": "qtl",
+                        "surface_form": "qutilato",
+                        "surface_form_arabic": "ÙÙØªÙÙÙØªÙ"
+                    }
+                }
+            }
+        }
+    }
+}
