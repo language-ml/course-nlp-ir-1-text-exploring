@@ -4,23 +4,19 @@ Content of each directory is described here:
 all txt files contains 1-5mb.
 
 1) Religious Texts
--
--
-2) Social Networks
--
--
--
+- Quranic Data
+- Saheefeh Sajjadiah
+- Kitab Tawheed (osool)
+
+2) Social Networks-
+- 3 social network dataset
+
 3) Financial Domain
--
--
+- News/Donya eghtesd
+
 4) Sports
--
--
--
+- 5 Sport news collections
+
 5) Literature
--
--
-6) ...
--
--
--
+- Hafez/Saadi poesm
+- All poets
