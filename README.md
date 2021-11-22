@@ -20,3 +20,6 @@ all txt files contains 1-5mb.
 5) Literature
 - Hafez/Saadi poesm
 - All poets
+
+6) Books
+- The Little Prince
