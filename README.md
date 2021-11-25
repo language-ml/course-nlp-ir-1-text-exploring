@@ -69,9 +69,9 @@ Here you can see each item's structure in JSON files
 | `tags`    | list of associated tags on the website for each news| *list(string)*|
 | `link`    |  news url | *string*|
 
-5. Literature
+# 5. Literature
 - Hafez/Saadi poesm
 - All poets
 
-6. Books
+# 6. Books
 - The Little Prince
