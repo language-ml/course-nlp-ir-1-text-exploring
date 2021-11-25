@@ -11,8 +11,7 @@ all txt files contains 1-5mb.
 # 2. Social Networks-
 - 3 social network dataset
 
-# 3. Financial Domain
-
+# 3. News
 In this category, we have multiple files that contain data from news websites. Each file has a prefix that identifies the website that data come from.
 
 ## Data
@@ -75,3 +74,5 @@ Here you can see each item's structure in JSON files
 
 # 6. Books
 - The Little Prince
+
+# 7. Financial Domain
