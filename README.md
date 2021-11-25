@@ -48,7 +48,7 @@ Here you can see each item's structure in JSON files
 | `abstract`    | abstract ( or description ) of each news | *string*|
 | `paragraphs`    | list of divided text items on the website | *list(string)*|
 
-# 4) Sports
+# 4. Sports
 
 In this cetegory, we have multiple files that contain data from sports websites. Each file has a prefix that identifies the website that data come from.
 
@@ -69,9 +69,9 @@ Here you can see each item's structure in JSON files
 | `tags`    | list of associated tags on the website for each news| *list(string)*|
 | `link`    |  news url | *string*|
 
-5) Literature
+5. Literature
 - Hafez/Saadi poesm
 - All poets
 
-6) Books
+6. Books
 - The Little Prince
