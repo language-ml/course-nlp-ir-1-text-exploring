@@ -8,7 +8,7 @@ all txt files contains 1-5mb.
 - Saheefeh Sajjadiah
 - Kitab Tawheed (osool)
 
-# 2. Social Networks-
+# 2. Social Networks
 There are 50,000 posts in this data set from an Iranian social network(Cafejomle). Posts are divided into three files so that the size of the files is not large. This dataset contains three properties: user_id, date, and post text.
 
 # 3. News
