@@ -1,0 +1,800 @@
+{
+    "1": {
+        "chapter_name": "Al-Fatiha",
+        "chapter_name_original": "الفاتحة",
+        "chapter_name_translation": "The Opening",
+        "location": "Meccan",
+        "num_ayat": 7
+    },
+    "2": {
+        "chapter_name": "Al-Baqara",
+        "chapter_name_original": "البقرة",
+        "chapter_name_translation": "The Heifer",
+        "location": "Medinan",
+        "num_ayat": 286
+    },
+    "3": {
+        "chapter_name": "Al-i-Imran",
+        "chapter_name_original": "آل عمران",
+        "chapter_name_translation": "The Family of Imran",
+        "location": "Medinan",
+        "num_ayat": 200
+    },
+    "4": {
+        "chapter_name": "An-Nisa",
+        "chapter_name_original": "النساء",
+        "chapter_name_translation": "The Women",
+        "location": "Medinan",
+        "num_ayat": 176
+    },
+    "5": {
+        "chapter_name": "Al-Maida",
+        "chapter_name_original": "المائدة",
+        "chapter_name_translation": "The Table",
+        "location": "Medinan",
+        "num_ayat": 120
+    },
+    "6": {
+        "chapter_name": "Al-Anam",
+        "chapter_name_original": "الأنعام",
+        "chapter_name_translation": "The Cattle",
+        "location": "Meccan",
+        "num_ayat": 165
+    },
+    "7": {
+        "chapter_name": "Al-Araf",
+        "chapter_name_original": "الأعراف",
+        "chapter_name_translation": "The Heights",
+        "location": "Meccan",
+        "num_ayat": 206
+    },
+    "8": {
+        "chapter_name": "Al-Anfal",
+        "chapter_name_original": "الأنفال",
+        "chapter_name_translation": "The Spoils of War",
+        "location": "Medinan",
+        "num_ayat": 75
+    },
+    "9": {
+        "chapter_name": "At-Tawba",
+        "chapter_name_original": "التوبة",
+        "chapter_name_translation": "The Repentance",
+        "location": "Medinan",
+        "num_ayat": 129
+    },
+    "10": {
+        "chapter_name": "Yunus",
+        "chapter_name_original": "يونس",
+        "chapter_name_translation": "Jonah",
+        "location": "Meccan",
+        "num_ayat": 109
+    },
+    "11": {
+        "chapter_name": "Hud",
+        "chapter_name_original": "هود",
+        "chapter_name_translation": "Hud",
+        "location": "Meccan",
+        "num_ayat": 123
+    },
+    "12": {
+        "chapter_name": "Yusuf",
+        "chapter_name_original": "يوسف",
+        "chapter_name_translation": "Joseph",
+        "location": "Meccan",
+        "num_ayat": 111
+    },
+    "13": {
+        "chapter_name": "Ar-Rad",
+        "chapter_name_original": "الرعد",
+        "chapter_name_translation": "The Thunder",
+        "location": "Medinan",
+        "num_ayat": 43
+    },
+    "14": {
+        "chapter_name": "Ibrahim",
+        "chapter_name_original": "ابراهيم",
+        "chapter_name_translation": "Abraham",
+        "location": "Meccan",
+        "num_ayat": 52
+    },
+    "15": {
+        "chapter_name": "Al-Hijr",
+        "chapter_name_original": "الحجر",
+        "chapter_name_translation": "The Stoneland",
+        "location": "Meccan",
+        "num_ayat": 99
+    },
+    "16": {
+        "chapter_name": "An-Nahl",
+        "chapter_name_original": "النحل",
+        "chapter_name_translation": "The Honey Bees",
+        "location": "Meccan",
+        "num_ayat": 128
+    },
+    "17": {
+        "chapter_name": "Al-Isra",
+        "chapter_name_original": "الإسراء",
+        "chapter_name_translation": "The Night Journey",
+        "location": "Meccan",
+        "num_ayat": 111
+    },
+    "18": {
+        "chapter_name": "Al-Kahf",
+        "chapter_name_original": "الكهف",
+        "chapter_name_translation": "The Cave",
+        "location": "Meccan",
+        "num_ayat": 110
+    },
+    "19": {
+        "chapter_name": "Maryam",
+        "chapter_name_original": "مريم",
+        "chapter_name_translation": "Mary",
+        "location": "Meccan",
+        "num_ayat": 98
+    },
+    "20": {
+        "chapter_name": "Ta-Ha",
+        "chapter_name_original": "طه",
+        "chapter_name_translation": "Ta-Ha",
+        "location": "Meccan",
+        "num_ayat": 135
+    },
+    "21": {
+        "chapter_name": "Al-Anbiya",
+        "chapter_name_original": "الأنبياء",
+        "chapter_name_translation": "The Prophets",
+        "location": "Meccan",
+        "num_ayat": 112
+    },
+    "22": {
+        "chapter_name": "Al-Hajj",
+        "chapter_name_original": "الحج",
+        "chapter_name_translation": "The Pilgrimage",
+        "location": "Medinan",
+        "num_ayat": 78
+    },
+    "23": {
+        "chapter_name": "Al-Muminun",
+        "chapter_name_original": "المؤمنون",
+        "chapter_name_translation": "The Believers",
+        "location": "Meccan",
+        "num_ayat": 118
+    },
+    "24": {
+        "chapter_name": "An-Nur",
+        "chapter_name_original": "النور",
+        "chapter_name_translation": "The Light",
+        "location": "Medinan",
+        "num_ayat": 64
+    },
+    "25": {
+        "chapter_name": "Al-Furqan",
+        "chapter_name_original": "الفرقان",
+        "chapter_name_translation": "The Criterion",
+        "location": "Meccan",
+        "num_ayat": 77
+    },
+    "26": {
+        "chapter_name": "Ash-Shuara",
+        "chapter_name_original": "الشعراء",
+        "chapter_name_translation": "The Poets",
+        "location": "Meccan",
+        "num_ayat": 227
+    },
+    "27": {
+        "chapter_name": "An-Naml",
+        "chapter_name_original": "النمل",
+        "chapter_name_translation": "The Ant",
+        "location": "Meccan",
+        "num_ayat": 93
+    },
+    "28": {
+        "chapter_name": "Al-Qasas",
+        "chapter_name_original": "القصص",
+        "chapter_name_translation": "The Stories",
+        "location": "Meccan",
+        "num_ayat": 88
+    },
+    "29": {
+        "chapter_name": "Al-Ankabut",
+        "chapter_name_original": "العنكبوت",
+        "chapter_name_translation": "The Spider",
+        "location": "Meccan",
+        "num_ayat": 69
+    },
+    "30": {
+        "chapter_name": "Ar-Rum",
+        "chapter_name_original": "الروم",
+        "chapter_name_translation": "The Romans",
+        "location": "Meccan",
+        "num_ayat": 60
+    },
+    "31": {
+        "chapter_name": "Luqman",
+        "chapter_name_original": "لقمان",
+        "chapter_name_translation": "Luqman",
+        "location": "Meccan",
+        "num_ayat": 34
+    },
+    "32": {
+        "chapter_name": "As-Sajda",
+        "chapter_name_original": "السجدة",
+        "chapter_name_translation": "The Prostration",
+        "location": "Meccan",
+        "num_ayat": 30
+    },
+    "33": {
+        "chapter_name": "Al-Ahzab",
+        "chapter_name_original": "الأحزاب",
+        "chapter_name_translation": "The Clans",
+        "location": "Medinan",
+        "num_ayat": 73
+    },
+    "34": {
+        "chapter_name": "Saba",
+        "chapter_name_original": "سبإ",
+        "chapter_name_translation": "Sheba",
+        "location": "Meccan",
+        "num_ayat": 54
+    },
+    "35": {
+        "chapter_name": "Fatir",
+        "chapter_name_original": "فاطر",
+        "chapter_name_translation": "The Originator",
+        "location": "Meccan",
+        "num_ayat": 45
+    },
+    "36": {
+        "chapter_name": "Ya-Sin",
+        "chapter_name_original": "يس",
+        "chapter_name_translation": "Yaseen",
+        "location": "Meccan",
+        "num_ayat": 83
+    },
+    "37": {
+        "chapter_name": "As-Saffat",
+        "chapter_name_original": "الصافات",
+        "chapter_name_translation": "Drawn up in Ranks",
+        "location": "Meccan",
+        "num_ayat": 182
+    },
+    "38": {
+        "chapter_name": "Sad",
+        "chapter_name_original": "ص",
+        "chapter_name_translation": "The Letter Sad",
+        "location": "Meccan",
+        "num_ayat": 88
+    },
+    "39": {
+        "chapter_name": "Az-Zumar",
+        "chapter_name_original": "الزمر",
+        "chapter_name_translation": "The Troops",
+        "location": "Meccan",
+        "num_ayat": 75
+    },
+    "40": {
+        "chapter_name": "Ghafir",
+        "chapter_name_original": "غافر",
+        "chapter_name_translation": "The Forgiver",
+        "location": "Meccan",
+        "num_ayat": 85
+    },
+    "41": {
+        "chapter_name": "Fussilat",
+        "chapter_name_original": "فصلت",
+        "chapter_name_translation": "Explained in Detail",
+        "location": "Meccan",
+        "num_ayat": 54
+    },
+    "42": {
+        "chapter_name": "Ash-Shura",
+        "chapter_name_original": "الشورى",
+        "chapter_name_translation": "The Consultation",
+        "location": "Meccan",
+        "num_ayat": 53
+    },
+    "43": {
+        "chapter_name": "Az-Zukhruf",
+        "chapter_name_original": "الزخرف",
+        "chapter_name_translation": "The Ornaments of Gold",
+        "location": "Meccan",
+        "num_ayat": 89
+    },
+    "44": {
+        "chapter_name": "Ad-Dukhan",
+        "chapter_name_original": "الدخان",
+        "chapter_name_translation": "The Smoke",
+        "location": "Meccan",
+        "num_ayat": 59
+    },
+    "45": {
+        "chapter_name": "Al-Jathiya",
+        "chapter_name_original": "الجاثية",
+        "chapter_name_translation": "Crouching",
+        "location": "Meccan",
+        "num_ayat": 37
+    },
+    "46": {
+        "chapter_name": "Al-Ahqaf",
+        "chapter_name_original": "الأحقاف",
+        "chapter_name_translation": "The Dunes",
+        "location": "Meccan",
+        "num_ayat": 35
+    },
+    "47": {
+        "chapter_name": "Muhammad",
+        "chapter_name_original": "محمد",
+        "chapter_name_translation": "Muhammad",
+        "location": "Medinan",
+        "num_ayat": 38
+    },
+    "48": {
+        "chapter_name": "Al-Fath",
+        "chapter_name_original": "الفتح",
+        "chapter_name_translation": "The Victory",
+        "location": "Medinan",
+        "num_ayat": 29
+    },
+    "49": {
+        "chapter_name": "Al-Hujurat",
+        "chapter_name_original": "الحجرات",
+        "chapter_name_translation": "The Inner Apartments",
+        "location": "Medinan",
+        "num_ayat": 18
+    },
+    "50": {
+        "chapter_name": "Qaf",
+        "chapter_name_original": "ق",
+        "chapter_name_translation": "The Letter Qaf",
+        "location": "Meccan",
+        "num_ayat": 45
+    },
+    "51": {
+        "chapter_name": "Adh-Dhariyat",
+        "chapter_name_original": "الذاريات",
+        "chapter_name_translation": "The Winnowing Winds",
+        "location": "Meccan",
+        "num_ayat": 60
+    },
+    "52": {
+        "chapter_name": "At-Tur",
+        "chapter_name_original": "الطور",
+        "chapter_name_translation": "The Mount",
+        "location": "Meccan",
+        "num_ayat": 49
+    },
+    "53": {
+        "chapter_name": "An-Najm",
+        "chapter_name_original": "النجم",
+        "chapter_name_translation": "The Star",
+        "location": "Meccan",
+        "num_ayat": 62
+    },
+    "54": {
+        "chapter_name": "Al-Qamar",
+        "chapter_name_original": "القمر",
+        "chapter_name_translation": "The Moon",
+        "location": "Meccan",
+        "num_ayat": 55
+    },
+    "55": {
+        "chapter_name": "Ar-Rahman",
+        "chapter_name_original": "الرحمن",
+        "chapter_name_translation": "The Beneficent",
+        "location": "Medinan",
+        "num_ayat": 78
+    },
+    "56": {
+        "chapter_name": "Al-Waqia",
+        "chapter_name_original": "الواقعة",
+        "chapter_name_translation": "The Inevitable",
+        "location": "Meccan",
+        "num_ayat": 96
+    },
+    "57": {
+        "chapter_name": "Al-Hadid",
+        "chapter_name_original": "الحديد",
+        "chapter_name_translation": "The Iron",
+        "location": "Medinan",
+        "num_ayat": 29
+    },
+    "58": {
+        "chapter_name": "Al-Mujadila",
+        "chapter_name_original": "المجادلة",
+        "chapter_name_translation": "The Pleading",
+        "location": "Medinan",
+        "num_ayat": 22
+    },
+    "59": {
+        "chapter_name": "Al-Hashr",
+        "chapter_name_original": "الحشر",
+        "chapter_name_translation": "The Exile",
+        "location": "Medinan",
+        "num_ayat": 24
+    },
+    "60": {
+        "chapter_name": "Al-Mumtahina",
+        "chapter_name_original": "الممتحنة",
+        "chapter_name_translation": "Examining Her",
+        "location": "Medinan",
+        "num_ayat": 13
+    },
+    "61": {
+        "chapter_name": "As-Saff",
+        "chapter_name_original": "الصف",
+        "chapter_name_translation": "The Ranks",
+        "location": "Medinan",
+        "num_ayat": 14
+    },
+    "62": {
+        "chapter_name": "Al-Jumua",
+        "chapter_name_original": "الجمعة",
+        "chapter_name_translation": "Friday",
+        "location": "Medinan",
+        "num_ayat": 11
+    },
+    "63": {
+        "chapter_name": "Al-Munafiqun",
+        "chapter_name_original": "المنافقون",
+        "chapter_name_translation": "The Hypocrites",
+        "location": "Medinan",
+        "num_ayat": 11
+    },
+    "64": {
+        "chapter_name": "At-Taghabun",
+        "chapter_name_original": "التغابن",
+        "chapter_name_translation": "Mutual Disillusion",
+        "location": "Medinan",
+        "num_ayat": 18
+    },
+    "65": {
+        "chapter_name": "At-Talaq",
+        "chapter_name_original": "الطلاق",
+        "chapter_name_translation": "Divorce",
+        "location": "Medinan",
+        "num_ayat": 12
+    },
+    "66": {
+        "chapter_name": "At-Tahrim",
+        "chapter_name_original": "التحريم",
+        "chapter_name_translation": "The Prohibition",
+        "location": "Medinan",
+        "num_ayat": 12
+    },
+    "67": {
+        "chapter_name": "Al-Mulk",
+        "chapter_name_original": "الملك",
+        "chapter_name_translation": "The Sovereignty",
+        "location": "Meccan",
+        "num_ayat": 30
+    },
+    "68": {
+        "chapter_name": "Al-Qalam",
+        "chapter_name_original": "القلم",
+        "chapter_name_translation": "The Pen",
+        "location": "Meccan",
+        "num_ayat": 52
+    },
+    "69": {
+        "chapter_name": "Al-Haqqa",
+        "chapter_name_original": "الحاقة",
+        "chapter_name_translation": "The Reality",
+        "location": "Meccan",
+        "num_ayat": 52
+    },
+    "70": {
+        "chapter_name": "Al-Maarij",
+        "chapter_name_original": "المعارج",
+        "chapter_name_translation": "The Ascending Stairways",
+        "location": "Meccan",
+        "num_ayat": 44
+    },
+    "71": {
+        "chapter_name": "Nuh",
+        "chapter_name_original": "نوح",
+        "chapter_name_translation": "Noah",
+        "location": "Meccan",
+        "num_ayat": 28
+    },
+    "72": {
+        "chapter_name": "Al-Jinn",
+        "chapter_name_original": "الجن",
+        "chapter_name_translation": "The Jinn",
+        "location": "Meccan",
+        "num_ayat": 28
+    },
+    "73": {
+        "chapter_name": "Al-Muzzammil",
+        "chapter_name_original": "المزمل",
+        "chapter_name_translation": "The Enshrouded One",
+        "location": "Meccan",
+        "num_ayat": 20
+    },
+    "74": {
+        "chapter_name": "Al-Muddathir",
+        "chapter_name_original": "المدثر",
+        "chapter_name_translation": "The Cloaked One",
+        "location": "Meccan",
+        "num_ayat": 56
+    },
+    "75": {
+        "chapter_name": "Al-Qiyama",
+        "chapter_name_original": "القيامة",
+        "chapter_name_translation": "The Resurrection",
+        "location": "Meccan",
+        "num_ayat": 40
+    },
+    "76": {
+        "chapter_name": "Al-Insan",
+        "chapter_name_original": "الانسان",
+        "chapter_name_translation": "Human",
+        "location": "Medinan",
+        "num_ayat": 31
+    },
+    "77": {
+        "chapter_name": "Al-Mursalat",
+        "chapter_name_original": "المرسلات",
+        "chapter_name_translation": "The Emissaries",
+        "location": "Meccan",
+        "num_ayat": 50
+    },
+    "78": {
+        "chapter_name": "An-Naba",
+        "chapter_name_original": "النبإ",
+        "chapter_name_translation": "The Announcement",
+        "location": "Meccan",
+        "num_ayat": 40
+    },
+    "79": {
+        "chapter_name": "An-Naziat",
+        "chapter_name_original": "النازعات",
+        "chapter_name_translation": "Those Who Drag Forth",
+        "location": "Meccan",
+        "num_ayat": 46
+    },
+    "80": {
+        "chapter_name": "Abasa",
+        "chapter_name_original": "عبس",
+        "chapter_name_translation": "He Frowned",
+        "location": "Meccan",
+        "num_ayat": 42
+    },
+    "81": {
+        "chapter_name": "At-Takwir",
+        "chapter_name_original": "التكوير",
+        "chapter_name_translation": "The Folding Up",
+        "location": "Meccan",
+        "num_ayat": 29
+    },
+    "82": {
+        "chapter_name": "Al-Infitar",
+        "chapter_name_original": "الإنفطار",
+        "chapter_name_translation": "The Cleaving",
+        "location": "Meccan",
+        "num_ayat": 19
+    },
+    "83": {
+        "chapter_name": "Al-Mutaffifin",
+        "chapter_name_original": "المطففين",
+        "chapter_name_translation": "Defrauding",
+        "location": "Meccan",
+        "num_ayat": 36
+    },
+    "84": {
+        "chapter_name": "Al-Inshiqaq",
+        "chapter_name_original": "الإنشقاق",
+        "chapter_name_translation": "The Splitting Open",
+        "location": "Meccan",
+        "num_ayat": 25
+    },
+    "85": {
+        "chapter_name": "Al-Buruj",
+        "chapter_name_original": "البروج",
+        "chapter_name_translation": "The Constellations",
+        "location": "Meccan",
+        "num_ayat": 22
+    },
+    "86": {
+        "chapter_name": "At-Tariq",
+        "chapter_name_original": "الطارق",
+        "chapter_name_translation": "The Morning Star",
+        "location": "Meccan",
+        "num_ayat": 17
+    },
+    "87": {
+        "chapter_name": "Al-Ala",
+        "chapter_name_original": "الأعلى",
+        "chapter_name_translation": "The Most High",
+        "location": "Meccan",
+        "num_ayat": 19
+    },
+    "88": {
+        "chapter_name": "Al-Ghashiya",
+        "chapter_name_original": "الغاشية",
+        "chapter_name_translation": "The Overwhelming",
+        "location": "Meccan",
+        "num_ayat": 26
+    },
+    "89": {
+        "chapter_name": "Al-Fajr",
+        "chapter_name_original": "الفجر",
+        "chapter_name_translation": "The Dawn",
+        "location": "Meccan",
+        "num_ayat": 30
+    },
+    "90": {
+        "chapter_name": "Al-Balad",
+        "chapter_name_original": "البلد",
+        "chapter_name_translation": "The City",
+        "location": "Meccan",
+        "num_ayat": 20
+    },
+    "91": {
+        "chapter_name": "Ash-Shams",
+        "chapter_name_original": "الشمس",
+        "chapter_name_translation": "The Sun",
+        "location": "Meccan",
+        "num_ayat": 15
+    },
+    "92": {
+        "chapter_name": "Al-Lail",
+        "chapter_name_original": "الليل",
+        "chapter_name_translation": "The Night",
+        "location": "Meccan",
+        "num_ayat": 21
+    },
+    "93": {
+        "chapter_name": "Ad-Dhuha",
+        "chapter_name_original": "الضحى",
+        "chapter_name_translation": "The Morning Hours",
+        "location": "Meccan",
+        "num_ayat": 11
+    },
+    "94": {
+        "chapter_name": "Ash-Sharh",
+        "chapter_name_original": "الشرح",
+        "chapter_name_translation": "The Consolation",
+        "location": "Meccan",
+        "num_ayat": 8
+    },
+    "95": {
+        "chapter_name": "At-Tin",
+        "chapter_name_original": "التين",
+        "chapter_name_translation": "The Fig",
+        "location": "Meccan",
+        "num_ayat": 8
+    },
+    "96": {
+        "chapter_name": "Al-Alaq",
+        "chapter_name_original": "العلق",
+        "chapter_name_translation": "The Clot",
+        "location": "Meccan",
+        "num_ayat": 19
+    },
+    "97": {
+        "chapter_name": "Al-Qadr",
+        "chapter_name_original": "القدر",
+        "chapter_name_translation": "The Power",
+        "location": "Meccan",
+        "num_ayat": 5
+    },
+    "98": {
+        "chapter_name": "Al-Bayyina",
+        "chapter_name_original": "البينة",
+        "chapter_name_translation": "The Evidence",
+        "location": "Medinan",
+        "num_ayat": 8
+    },
+    "99": {
+        "chapter_name": "Az-Zalzala",
+        "chapter_name_original": "الزلزلة",
+        "chapter_name_translation": "The Earthquake",
+        "location": "Medinan",
+        "num_ayat": 8
+    },
+    "100": {
+        "chapter_name": "Al-Adiyat",
+        "chapter_name_original": "العاديات",
+        "chapter_name_translation": "The Chargers",
+        "location": "Meccan",
+        "num_ayat": 11
+    },
+    "101": {
+        "chapter_name": "Al-Qaria",
+        "chapter_name_original": "القارعة",
+        "chapter_name_translation": "The Calamity",
+        "location": "Meccan",
+        "num_ayat": 11
+    },
+    "102": {
+        "chapter_name": "At-Takathur",
+        "chapter_name_original": "التكاثر",
+        "chapter_name_translation": "Competition",
+        "location": "Meccan",
+        "num_ayat": 8
+    },
+    "103": {
+        "chapter_name": "Al-Asr",
+        "chapter_name_original": "العصر",
+        "chapter_name_translation": "The Time",
+        "location": "Meccan",
+        "num_ayat": 3
+    },
+    "104": {
+        "chapter_name": "Al-Humaza",
+        "chapter_name_original": "الهمزة",
+        "chapter_name_translation": "The Traducer",
+        "location": "Meccan",
+        "num_ayat": 9
+    },
+    "105": {
+        "chapter_name": "Al-Fil",
+        "chapter_name_original": "الفيل",
+        "chapter_name_translation": "The Elephant",
+        "location": "Meccan",
+        "num_ayat": 5
+    },
+    "106": {
+        "chapter_name": "Quraysh",
+        "chapter_name_original": "قريش",
+        "chapter_name_translation": "Quraysh",
+        "location": "Meccan",
+        "num_ayat": 4
+    },
+    "107": {
+        "chapter_name": "Al-Maun",
+        "chapter_name_original": "الماعون",
+        "chapter_name_translation": "Almsgiving",
+        "location": "Meccan",
+        "num_ayat": 7
+    },
+    "108": {
+        "chapter_name": "Al-Kawthar",
+        "chapter_name_original": "الكوثر",
+        "chapter_name_translation": "Abundance",
+        "location": "Meccan",
+        "num_ayat": 3
+    },
+    "109": {
+        "chapter_name": "Al-Kafirun",
+        "chapter_name_original": "الكافرون",
+        "chapter_name_translation": "The Disbelievers",
+        "location": "Meccan",
+        "num_ayat": 6
+    },
+    "110": {
+        "chapter_name": "An-Nasr",
+        "chapter_name_original": "النصر",
+        "chapter_name_translation": "Divine Support",
+        "location": "Medinan",
+        "num_ayat": 3
+    },
+    "111": {
+        "chapter_name": "Al-Masad",
+        "chapter_name_original": "المسد",
+        "chapter_name_translation": "The Palm Fibre",
+        "location": "Meccan",
+        "num_ayat": 5
+    },
+    "112": {
+        "chapter_name": "Al-Ikhlas",
+        "chapter_name_original": "الإخلاص",
+        "chapter_name_translation": "Purity of Faith",
+        "location": "Meccan",
+        "num_ayat": 4
+    },
+    "113": {
+        "chapter_name": "Al-Falaq",
+        "chapter_name_original": "الفلق",
+        "chapter_name_translation": "The Dawn",
+        "location": "Meccan",
+        "num_ayat": 5
+    },
+    "114": {
+        "chapter_name": "An-Nas",
+        "chapter_name_original": "الناس",
+        "chapter_name_translation": "Mankind",
+        "location": "Meccan",
+        "num_ayat": 6
+    }
+}
